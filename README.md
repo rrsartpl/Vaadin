@@ -20,7 +20,7 @@ or `./mvnw clean package -Pproduction` (Mac & Linux).
 This will build a JAR file with all the dependencies and front-end resources,
 ready to be deployed. The file can be found in the `target` folder after the build completes.
 
-Once the JAR file is built, you can run it using
+Once the JAR file is built, you can run it usingaaaa
 `java -jar target/mytodo-1.0-SNAPSHOT.jar`
 
 ## Project structure
